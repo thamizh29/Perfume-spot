@@ -1,0 +1,70 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-06-20 23:04:09.624277",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "user_id",
+  "product_id",
+  "comments",
+  "ratings",
+  "time"
+ ],
+ "fields": [
+  {
+   "fieldname": "user_id",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "User Id",
+   "reqd": 1
+  },
+  {
+   "fieldname": "product_id",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Product Id",
+   "reqd": 1
+  },
+  {
+   "fieldname": "comments",
+   "fieldtype": "Data",
+   "label": "Comments"
+  },
+  {
+   "fieldname": "ratings",
+   "fieldtype": "Rating",
+   "in_list_view": 1,
+   "label": "Ratings"
+  },
+  {
+   "fieldname": "time",
+   "fieldtype": "Time",
+   "label": "Time"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-06-20 23:06:03.126436",
+ "modified_by": "Administrator",
+ "module": "Perfume",
+ "name": "Review",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": []
+}
