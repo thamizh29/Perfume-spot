@@ -1,0 +1,73 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-06-20 22:53:57.216531",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "perfume_id",
+  "discount_type",
+  "discount_value",
+  "is_active",
+  "start",
+  "close"
+ ],
+ "fields": [
+  {
+   "fieldname": "perfume_id",
+   "fieldtype": "Data",
+   "label": "Perfume Id"
+  },
+  {
+   "fieldname": "discount_type",
+   "fieldtype": "Data",
+   "label": "Discount Type"
+  },
+  {
+   "fieldname": "discount_value",
+   "fieldtype": "Select",
+   "label": "Discount Value",
+   "options": "Flat\nPercentage"
+  },
+  {
+   "fieldname": "is_active",
+   "fieldtype": "Select",
+   "label": "Is Active",
+   "options": "True\nFalse"
+  },
+  {
+   "fieldname": "start",
+   "fieldtype": "Date",
+   "label": "Start"
+  },
+  {
+   "fieldname": "close",
+   "fieldtype": "Date",
+   "label": "Close"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-06-20 23:00:23.497172",
+ "modified_by": "Administrator",
+ "module": "Perfume",
+ "name": "Discount",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": []
+}
