@@ -1,21 +1,24 @@
 
-### Perfume
+# Perfume
 
 perfume spot site
 
-Main Page
+## Main Page
 
-file:///home/thamizharasan/Pictures/Screenshots/purfume/main.png
+![main](https://github.com/user-attachments/assets/b6e5da67-1616-49fb-8072-f5e01f261f2a)
 
-Products Page
+## Products Page
 
-file:///home/thamizharasan/Pictures/Screenshots/purfume/products.png
+![products](https://github.com/user-attachments/assets/d0326a69-d27d-4f4b-9315-163a97a9078c)
 
-View Page
+## View Page
 
-file:///home/thamizharasan/Pictures/Screenshots/purfume/view.png
+![view](https://github.com/user-attachments/assets/d8c6b6a0-fcb7-46b5-926b-6b3655e750a2)
 
-Cart Page
+## Cart Page
 
-file:///home/thamizharasan/Pictures/Screenshots/purfume/cart.png
+![cart](https://github.com/user-attachments/assets/520e2c36-e56c-4a8d-a025-e879e523dc6e)
+
+
+
 
