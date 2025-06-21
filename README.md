@@ -1,37 +1,21 @@
-<<<<<<< HEAD
-# Perfume-spot
-=======
+
 ### Perfume
 
-perfume site
+perfume spot site
 
-### Installation
+Main Page
 
-You can install this app using the [bench](https://github.com/frappe/bench) CLI:
+file:///home/thamizharasan/Pictures/Screenshots/purfume/main.png
 
-```bash
-cd $PATH_TO_YOUR_BENCH
-bench get-app $URL_OF_THIS_REPO --branch develop
-bench install-app perfume
-```
+Products Page
 
-### Contributing
+file:///home/thamizharasan/Pictures/Screenshots/purfume/products.png
 
-This app uses `pre-commit` for code formatting and linting. Please [install pre-commit](https://pre-commit.com/#installation) and enable it for this repository:
+View Page
 
-```bash
-cd apps/perfume
-pre-commit install
-```
+file:///home/thamizharasan/Pictures/Screenshots/purfume/view.png
 
-Pre-commit is configured to use the following tools for checking and formatting your code:
+Cart Page
 
-- ruff
-- eslint
-- prettier
-- pyupgrade
+file:///home/thamizharasan/Pictures/Screenshots/purfume/cart.png
 
-### License
-
-mit
->>>>>>> config
